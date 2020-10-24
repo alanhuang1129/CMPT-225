@@ -1,0 +1,5 @@
+﻿  Employee.cpp
+  main.cpp
+C:\Visual Studios\Projects\CMPT225A2\CMPT225A2\Employee.cpp(5,7): error C2059:  syntax error: 'using namespace'
+  Generating Code...
+C:\Visual Studios\Projects\CMPT225A2\CMPT225A2\main.cpp(8,7): error C2059:  syntax error: 'using namespace'
