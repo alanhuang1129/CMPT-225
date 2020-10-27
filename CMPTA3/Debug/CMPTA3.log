@@ -1,0 +1,10 @@
+﻿  arraylist.cpp
+C:\Visual Studios\Projects\CMPTA3\CMPTA3\arraylist.cpp(45,12): error C3861:  'privavteArray': identifier not found
+C:\Visual Studios\Projects\CMPTA3\CMPTA3\arraylist.cpp(77,12): error C3861:  'privavteArray': identifier not found
+  main.cpp
+C:\Visual Studios\Projects\CMPTA3\CMPTA3\arraylist.cpp(184): error C1075:  '{': no matching token found
+C:\Visual Studios\Projects\CMPTA3\CMPTA3\main.cpp(68,83): error C2676:  binary '++': 'ArrayList<int>::Iterator' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Visual Studios\Projects\CMPTA3\CMPTA3\main.cpp(82,83): error C2676:  binary '++': 'ArrayList<int>::Iterator' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Visual Studios\Projects\CMPTA3\CMPTA3\main.cpp(97,92): error C2676:  binary '++': 'ArrayList<std::string>::Iterator' does not define this operator or a conversion to a type acceptable to the predefined operator
+  Generating Code...
+C:\Visual Studios\Projects\CMPTA3\CMPTA3\main.cpp(111,92): error C2676:  binary '++': 'ArrayList<std::string>::Iterator' does not define this operator or a conversion to a type acceptable to the predefined operator
